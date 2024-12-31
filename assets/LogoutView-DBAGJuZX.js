@@ -1,0 +1,1 @@
+import{a as e,ae as t,ag as a,i as n,o as s}from"./index-BlQq-XYI.js";const _=e({__name:"LogoutView",setup(u){const o=t();return a(async()=>{await o.logout()}),(c,r)=>(s(),n("div",null,"Logging out..."))}});export{_ as default};
